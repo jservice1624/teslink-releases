@@ -1,12 +1,12 @@
 {
-  "versionCode": 44,
-  "versionName": "0.2.25-rc.8",
-  "notes": "GitHub 시험판 업데이트 이전. 기존 BLE 안전차단 유지. 공식 휴대폰 키 안정성 실차 미검증.",
+  "versionCode": 46,
+  "versionName": "0.2.25-rc.9",
+  "notes": "중단된 BLE 검색의 지연 실패 콜백 보호. 안전 차단 발생·수동 재개·재연결 이력 진단 추가. GATT_WRITE_BUSY/CCCD 콜백 누락과 공식 휴대폰 키 공존의 근본 해결은 실차 미검증. 안전 차단 자동 해제 없음.",
   "files": [
-    "https://github.com/jservice1624/teslink-releases/releases/download/v0.2.25-rc.8/Teslink-0.2.25-rc.8-code44.apk"
+    "https://github.com/jservice1624/teslink-releases/releases/download/v0.2.25-rc.9/Teslink-0.2.25-rc.9-code46.apk"
   ],
   "compression": "",
   "bytes": 33110026,
-  "sha256": "066cf0f708b88c7333c68d328f0eaa7dc82ceab48869261f87d81a8888611778",
-  "name": "Teslink-0.2.25-rc.8-code44.apk"
+  "sha256": "b5030411c3753155e32e9dfed00c1e69301abb115d3dee21f54ad97c4c49f31d",
+  "name": "Teslink-0.2.25-rc.9-code46.apk"
 }
